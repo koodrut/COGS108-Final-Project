@@ -1,9 +1,11 @@
-This is your group repo for your final project for COGS108.
+Our final project explores the relationship between income, density of liquor stores, and the DUI rates of a neighborhood. We seek to find which of the two factors has a stronger influence, if at all, on DUI rates. Our analysis includes data from 4 different sets that were cleaned and statistically analyzed with linear regressions, OLS tests, and t-tests.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+Research Question: Does the average income and/or density of liquor-selling businesses in a San Diego zip code influence the amount of DUI tickets given in the area? Which factor has a stronger correlation to DUI rates?
 
-This repository will be frozen on the due date: 11:59pm on Tuesday, June 13th. No further changes can be made after that time.
+Hypothesis: 
 
-Your final project will be graded based solely on a project notebook.
+We have three hypotheses to answer the two parts of our research question.
 
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date.
+  1. We hypothesize that median_income in a zip code has a negative correlation with DUI rate in that zip code and that the        density of liquor-selling businesses in a zip code has a positive correlation with DUI rate.
+  2. We hypothesize that liquor store density has a stronger correlation to the DUI rates of a neighborhood.
+  3. We hypothesize that there is a statistically significant relationship that can be found in liquor store density  influencing DUI rates in neighbors, and a statistically significant relationship can be found between median zip code income and DUI rate. 
